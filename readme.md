@@ -34,7 +34,7 @@ Sentinel is a high-performance, real-time network sniffer and threat detector bu
 2. **Clone the Project:**
 
    ```bash
-   git clone [https://github.com/yourusername/Sentinel.git](https://github.com/yourusername/Sentinel.git)
+   git clone [https://github.com/Marauder-0/Network_Analyzer.git](https://github.com/Marauder-0/Network_Analyzer.git)
    cd Sentinel
 
    ```
