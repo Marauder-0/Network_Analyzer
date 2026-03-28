@@ -1,0 +1,14 @@
+# Sentinel Configuration File
+settings:
+  port_threshold: 15
+  rate_threshold: 100
+  alert_cooldown: 5 # Seconds between repeat alerts for same IP
+
+network:
+  whitelist:
+    - "8.8.8.8"
+    - "8.8.4.4"
+  ignore_ipv6: true
+
+logging:
+  export_format: "json" # Options: "csv", "json"
