@@ -1,0 +1,9 @@
+{"timestamp": "2026-03-28T23:07:00.704019", "src_ip": "192.168.1.10", "dst_port": 16, "protocol": "TCP", "threat_type": "POTENTIAL_PORT_SCAN"}
+{"timestamp": "2026-03-28T23:07:05.745764", "src_ip": "192.168.1.10", "dst_port": 26, "protocol": "TCP", "threat_type": "POTENTIAL_PORT_SCAN"}
+{"timestamp": "2026-03-28T23:07:10.835928", "src_ip": "192.168.1.10", "dst_port": 36, "protocol": "TCP", "threat_type": "POTENTIAL_PORT_SCAN"}
+{"timestamp": "2026-03-28T23:07:15.920939", "src_ip": "192.168.1.10", "dst_port": 46, "protocol": "TCP", "threat_type": "POTENTIAL_PORT_SCAN"}
+{"timestamp": "2026-03-28T23:07:20.991160", "src_ip": "192.168.1.10", "dst_port": 56, "protocol": "TCP", "threat_type": "POTENTIAL_PORT_SCAN"}
+{"timestamp": "2026-03-28T23:07:26.035292", "src_ip": "192.168.1.10", "dst_port": 66, "protocol": "TCP", "threat_type": "POTENTIAL_PORT_SCAN"}
+{"timestamp": "2026-03-28T23:08:03.278244", "src_ip": "::1", "dst_port": 24159, "protocol": "TCP", "threat_type": "RATE_LIMIT_EXCEEDED"}
+{"timestamp": "2026-03-28T23:09:34.952823", "src_ip": "::1", "dst_port": 18198, "protocol": "TCP", "threat_type": "RATE_LIMIT_EXCEEDED"}
+{"timestamp": "2026-03-28T23:11:20.713563", "src_ip": "::1", "dst_port": 43088, "protocol": "TCP", "threat_type": "RATE_LIMIT_EXCEEDED"}

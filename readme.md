@@ -15,6 +15,10 @@ Sentinel is a high-performance, real-time network sniffer and threat detector bu
 - **Smart Logging:** Automatically saves detailed threat reports to `alerts.csv`.
 - **Whitelisting:** Built-in protection to ignore trusted DNS and local gateway traffic.
 
+## 📺 Live Demo
+
+![Sentinel NIDS Demo](scan.gif)
+
 ## 🛠️ Tech Stack
 
 - **Language:** Python 3.13
