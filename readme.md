@@ -1,5 +1,9 @@
 # 🛡️ Sentinel: Network Intrusion Detection System (NIDS)
 
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Requirements](https://img.shields.io/badge/requirements-ready-orange)
+
 Sentinel is a high-performance, real-time network sniffer and threat detector built in Python. Designed as an individual security project, it monitors network traffic, parses packet layers, and identifies malicious patterns like Port Scanning and Rate Flooding.
 
 ## 🚀 Features
